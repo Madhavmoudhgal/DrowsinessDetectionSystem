@@ -67,3 +67,6 @@ To use the Drowsiness Detection System, follow these steps:
 
 By following these steps, you can effectively use and configure the Drowsiness Detection System for your specific use case.
 
+
+![WhatsApp Image 2024-09-05 at 21 37 37_c6d2138f](https://github.com/user-attachments/assets/8e00867e-4892-4e60-8475-b5aefb67031d)
+
